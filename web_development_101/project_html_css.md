@@ -1422,6 +1422,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Douglasbsx Solution (Easy)](https://github.com/douglasbsx/Google-homepage) - [View in Browser](https://douglasbsx.github.io/Google-homepage/)
 * [Ahmad Javed's Solution (Easy)](https://github.com/ahmad-codes/google-homepage) - [View in Browser](https://ahmad-codes.github.io/google-homepage/)
 * [jstnlester's Solution (Easy)](https://github.com/jstnlester/google-homepage) - [View in Browser](https://jstnlester.github.io/google-homepage/)
+* [JD's Solution (Easy)](https://github.com/WebRat72/google-homepage) - [View in Browser](https://webrat72.github.io/google-homepage/)
 
 ### Additional Resources
 
